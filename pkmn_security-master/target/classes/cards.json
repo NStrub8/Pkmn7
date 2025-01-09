@@ -1,0 +1,61 @@
+{
+  "id": null,
+  "cardNumber": "132",
+  "pokemonStage": "STAGE1",
+  "name": "Noibat",
+  "hp": 60,
+  "evolvesFrom": {
+    "id": null,
+    "cardNumber": "60",
+    "pokemonStage": "STAGE1",
+    "name": "Noibat",
+    "hp": 30,
+    "evolvesFrom": null,
+    "skills": [
+      {
+        "name": "Tongue Slap",
+        "description": "",
+        "cost": "1",
+        "damage": 10
+      },
+      {
+        "name": "Wave Splash",
+        "description": "",
+        "cost": "2",
+        "damage": 20
+      }
+    ],
+    "weaknessType": "LIGHTNING",
+    "resistanceType": "FIRE",
+    "retreatCost": "2",
+    "gameSet": "Sword & Shield - Fusion Strike",
+    "pokemonType": "WATER",
+    "regulationMark": "E",
+    "pokemonOwner": {
+      "firstName": "Nikita",
+      "surName": "Strubalin",
+      "familyName": "Nikita",
+      "group": "BSBO-04-23"
+    }
+  },
+  "skills": [
+    {
+      "name": "Aqua Split",
+      "description": "This attack also does 30 damage to 2 of your opponents Benched Pokémon. (Dont apply Weakness and Resistance for Benched Pokémon.)",
+      "cost": "W2",
+      "damage": 60
+    }
+  ],
+  "weaknessType": "LIGHTNING",
+  "resistanceType": "FIRE",
+  "retreatCost": "2",
+  "gameSet": "Sword & Shield - Fusion Strike",
+  "pokemonType": "WATER",
+  "regulationMark": "E",
+  "pokemonOwner": {
+    "firstName": "Nikita",
+    "surName": "Strubalin",
+    "familyName": "Pavlovich",
+    "group": "BSBO-04-23"
+  }
+}
